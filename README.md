@@ -1,4 +1,9 @@
-# Hi there, I'm Amanda Werner! Welcome to my Github profile.📍 Now living in BRAZIL
+# Hi there, I'm Amanda Werner! 
+## Welcome to my Github profile.
+## 📍 Now living in BRAZIL
+## ![angular](https://img.shields.io/badge/Angular-DD0031?style=fat-square&logo=angular&logoColor=white) Front End Developer
+
+
 
 [![instagram](https://img.shields.io/badge/aawrnr-E4405F?style=fat-square&logo=instagram&logoColor=white&link:https://www.instagram.com/aawrnr/)](https://www.instagram.com/aawrnr/)
 [![gmail](https://img.shields.io/badge/-amandawerner-D14836?style=fat-square&logo=Gmail&logoColor=white)](amanda.werner.aw@gmail.com)
