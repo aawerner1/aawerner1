@@ -1,16 +1,26 @@
-# Hi there, I'm Amanda Werner! 
-## Welcome to my Github profile.
-## 📍 Now living in BRAZIL
-## ![angular](https://img.shields.io/badge/Angular-DD0031?style=fat-square&logo=angular&logoColor=white) Front End Developer
+# Hi there! Welcome to my Github profile
+### About Me
+
+ <br/> 
+
+🦄 Pronoun she/her <br/>
+🐣 Frontend Developer since 2018 <br/>
+🌎 I’m currently living in BRAZIL <br/>
+📚 Bachelor of Internet Systems <br/>
+💻 Working as a <b>Angular Developer</b> <br/>
+🌱 English student at level B2 (Upper Intermediate) <br/>
+
+ <br/>
 
 
+<p align="center">
+  <a href="mailto:amanda.werner.aw@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/aawrnr/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/amandawerner/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
-[![instagram](https://img.shields.io/badge/aawrnr-E4405F?style=fat-square&logo=instagram&logoColor=white&link:https://www.instagram.com/aawrnr/)](https://www.instagram.com/aawrnr/)
-[![gmail](https://img.shields.io/badge/-amandawerner-D14836?style=fat-square&logo=Gmail&logoColor=white)](amanda.werner.aw@gmail.com)
-[![Linkedin](https://img.shields.io/badge/-amandawerner-blue?style=fat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandawerner/)](https://www.linkedin.com/in/amandawerner/)
 
-
-## 🚀💻 Technologies & Tools
+## 🚀 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=fat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=fat-square&logo=typescript&logoColor=white)
 ![angular](https://img.shields.io/badge/Angular-DD0031?style=fat-square&logo=angular&logoColor=white)
