@@ -7,7 +7,7 @@
 🐣 Frontend Developer since 2018 <br/>
 🌎 I’m currently living in BRAZIL <br/>
 📚 Bachelor of Internet Systems <br/>
-💻 Working as a <b>Angular Developer</b> <br/>
+💻 Working as a <b>Angular Developer</b> since 2019<br/>
 🌱 English student at level B2 (Upper Intermediate) <br/>
 
  <br/>
