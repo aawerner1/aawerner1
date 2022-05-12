@@ -11,14 +11,10 @@
 🌱 English student at level B2 (Upper Intermediate) <br/>
 
  <br/>
-
-
-<p align="center">
-  <a href="mailto:amanda.werner.aw@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+ 
+   <a href="mailto:amanda.werner.aw@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/aawrnr/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/amandawerner/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
 
 ### 🚀 Technologies & Tools
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=fat-square&logo=javascript&logoColor=black)
@@ -57,3 +53,5 @@
 <small><a href="https://cursos.alura.com.br/user/amanda-werner/course/javascript-programando-na-linguagem-web/certificate">Javascript</a></small></br>
 <small><a href="https://cursos.alura.com.br/user/amanda-werner/course/web-design-responsivo/certificate">Web Design Responsivo</a></small></br> 
 </details>
+
+
