@@ -32,6 +32,7 @@
 <details>
  <summary> <h3>🌱Licenses and certificates</h3></summary>
 
+<small><a href="https://www.udemy.com/certificate/UC-a96b8540-a3e6-429a-8c65-f0bbe24c2267/"> Angular Testing Masterclass</a></small></br>
 <small><a href="https://cursos.alura.com.br/certificate/d6004bfb-7252-4102-9dc5-b4d63da09c4e">Angular - Boas práticas em arquitetura e formulários</a></small></br>
  <small><a href="https://www.udemy.com/certificate/UC-61564cfa-c4bc-487b-a189-a519366894ef/">Angular - The Complete Guide (2020 Edition)</a></small></br>
  <small><a href="https://www.freecodecamp.org/certification/aawerner/responsive-web-design">Responsive Web Design</a></small></br>
