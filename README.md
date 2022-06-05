@@ -31,6 +31,9 @@
 <details>
  <summary> <h3>🌱Licenses and certificates</h3></summary>
 
+<small><a href="https://www.udemy.com/certificate/UC-ab9c9af3-4786-45b1-92ff-c1a587594193/"> Aprendendo Redux utilizando NGRX com Angular 13+</a></small></br>
+<small><a href="https://cursos.alura.com.br/certificate/c5a13278-9d05-4f10-8ec7-6f876497be04"> Angular: avançando com testes automatizados</a></small></br>
+<small><a href="https://cursos.alura.com.br/certificate/89a21b60-beea-4ae4-841b-10dd52cfe9d8">Angular: testes automatizados com Jasmine e Karma</a></small></br>
 <small><a href="https://www.udemy.com/certificate/UC-a96b8540-a3e6-429a-8c65-f0bbe24c2267/"> Angular Testing Masterclass</a></small></br>
 <small><a href="https://cursos.alura.com.br/certificate/d6004bfb-7252-4102-9dc5-b4d63da09c4e">Angular - Boas práticas em arquitetura e formulários</a></small></br>
  <small><a href="https://www.udemy.com/certificate/UC-61564cfa-c4bc-487b-a189-a519366894ef/">Angular - The Complete Guide (2020 Edition)</a></small></br>
