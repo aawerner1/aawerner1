@@ -1,35 +1,46 @@
-# Hi there! Welcome to my Github profile
-### About Me
+<h2 align="left">Hi there! Welcome to my Github profile</h2>
 
- <br/> 
+###
+<h4 align="left">About me</h4>
 
-🦄 Pronoun she/her <br/>
-🐣 Frontend Developer since 2018 <br/>
-🌎 I’m currently living in BRAZIL <br/>
-📚 Bachelor of Internet Systems <br/>
-💻 Working as a <b>Angular Developer</b> since 2019<br/>
-🌱 English student at level B2 (Upper Intermediate) <br/>
+###
+<p align="left">🦄 Pronoun she/her<br>🐣 Frontend Developer since 2018<br>🌎 I’m currently living in BRAZIL<br>📚 Bachelor of Internet Systems<br>💻 Working as a Angular Developer since 2019<br>🌱 English student at level B2 (Upper Intermediate)</p>
 
- <br/>
- 
-   <a href="mailto:amanda.werner.aw@gmail.com?subject=Olá%20Bruno%20Tacca"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.instagram.com/aawrnr/"><img src="https://img.shields.io/badge/instagram-%23dc2743.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/amandawerner/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+###
+<div align="left">
+  <a href="https://www.linkedin.com/in/amandawerner/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="26" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/aawrnr/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="26" alt="instagram logo"  />
+  </a>
+  <a href="amanda.werner.aw@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="26" alt="gmail logo"  />
+  </a>
+</div>
 
-### 🚀 Technologies & Tools
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=fat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=fat-square&logo=typescript&logoColor=white)
-![angular](https://img.shields.io/badge/Angular-DD0031?style=fat-square&logo=angular&logoColor=white)
-![sass](https://img.shields.io/badge/Sass-CC6699?style=fat-square&logo=sass&logoColor=white)
-![html5](https://img.shields.io/badge/HTML5-E34F26?style=fat-square&logo=html5&logoColor=white)
-![css3](https://img.shields.io/badge/CSS3-1572B6?style=fat-square&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=fat-square&logo=bootstrap&logoColor=white)
-![git](https://img.shields.io/badge/Git-F05032?style=fat-square&logo=git&logoColor=white)
-![figma](https://img.shields.io/badge/Figma-F24E1E?style=fat-square&logo=figma&logoColor=white)
+###
+<h4 align="left">🚀  Technologies & Tools</h4>
 
+###
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36" width="52" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36" width="52" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="36" width="52" alt="angularjs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="36" width="52" alt="sass logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36" width="52" alt="css3 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36" width="52" alt="html5 logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="36" width="52" alt="bootstrap logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36" width="52" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="36" width="52" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36" width="52" alt="github logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36" width="52" alt="vscode logo"  />
+</div>
+
+###
 
 <details>
- <summary> <h3>🌱Licenses and certificates</h3></summary>
+ <summary> <h4>🌱 Licenses and certificates</h4></summary>
 
 <small><a href="https://www.udemy.com/certificate/UC-ab9c9af3-4786-45b1-92ff-c1a587594193/"> Aprendendo Redux utilizando NGRX com Angular 13+</a></small></br>
 <small><a href="https://cursos.alura.com.br/certificate/c5a13278-9d05-4f10-8ec7-6f876497be04"> Angular: avançando com testes automatizados</a></small></br>
