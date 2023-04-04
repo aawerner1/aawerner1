@@ -4,7 +4,7 @@
 <h4 align="left">About me</h4>
 
 ###
-<p align="left">🦄 Pronoun she/her<br>🐣 Frontend Developer since 2018<br>🌎 I’m currently living in BRAZIL<br>📚 Bachelor of Internet Systems<br>💻 Working as a Angular Developer since 2019<br>🌱 English student at level B2 (Upper Intermediate)</p>
+<p align="left">🦄 Pronoun she/her<br>🐣 Frontend Developer since 2018<br>🌎 I’m currently living in Portugal<br>📚 Bachelor of Internet Systems<br>💻 Working as a Angular Developer since 2019<br>🌱 English student at level B2 (Upper Intermediate)</p>
 
 ###
 <div align="left">
