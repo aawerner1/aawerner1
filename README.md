@@ -11,9 +11,6 @@
   <a href="https://www.linkedin.com/in/amandawerner/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="26" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/aawrnr/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="26" alt="instagram logo"  />
-  </a>
   <a href="amanda.werner.aw@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="42" height="26" alt="gmail logo"  />
   </a>
